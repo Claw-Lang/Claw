@@ -52,8 +52,8 @@ pip install -r requirements.txt
 
 Done! Now you can run the compiler or the interpreter, make a test file and hack your way around. Remember there are examples in the documentation.
 ```bash
-python src/les.py run test.les
-python src/les.py compile test.les
+python src/claw.py run test.claw
+python src/claw.py compile test.claw
 ```
 
 Or install pytest and run the unit tests yourself
@@ -63,5 +63,5 @@ pytest
 
 For advanced usage or help, consult the CLI help menu
 ```bash
-python src/les.py -h
+python src/claw.py -h
 ```
