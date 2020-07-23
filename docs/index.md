@@ -1,5 +1,5 @@
 <p align="center">
-<img src="docs/img/claw.jpg" height="180px" style="height: 180px" alt="Claw Programming Language" title="Claw Programming Language">
+<img src="img/claw.jpg" height="180px" style="height: 180px" alt="Claw Programming Language" title="Claw Programming Language">
 <br><b style="font-size: 24px;">Claw</b>
 </p>
 
