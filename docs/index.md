@@ -33,7 +33,7 @@ In the case that your platform is not oficially supported, you need to build it 
 ## Documentation
 
 - [Language Documentation](https://Claw-Lang.github.io/Claw)
-- [Claw code samples](https://Claw-Lang.github.io/Claw/docs/examples.md)
+- [Claw code samples](https://Claw-Lang.github.io/examples.md)
 
 ## Build
 
