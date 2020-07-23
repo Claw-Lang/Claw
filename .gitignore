@@ -1,0 +1,25 @@
+### Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+### JetBrains
+.idea/
+
+### Binaries and output folder
+out/
+
+\.vscode/
+\.pytest_cache/
+
+site/
+build/
+dist/
+les\.dist/
+
+les\.build/
+
+.mypy_cache/
+
+test.les
+.DS_Store

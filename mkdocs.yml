@@ -1,0 +1,50 @@
+site_name: Claw Documentation
+site_description: 'Claw Documentation'
+site_url: 'https://Claw-Lang.github.io/Claw/'
+site_author: 'Alin Ali Hassan'
+
+repo_name: 'Claw-Lang/Claw'
+repo_url: 'https://github.com/Claw-Lang/Claw'
+
+copyright: 'Copyright &copy; 2019 Alin Ali Hassan'
+
+nav:
+  - Claw: index.md
+  - Examples: examples.md
+  - Features:
+    - Syntax: features/syntax.md
+    - Keywords: features/keywords.md
+    - Flow Control: features/flow_control.md
+    - Classes: features/classes.md
+    - Enums: features/enums.md
+    - Types: features/types.md
+    - Operators: features/operators.md
+  - TODO: TODO.md
+  - License: license.md
+
+extra_css:
+    - css/extra.css
+
+theme:
+  name: 'material'
+  palette:
+    primary: 'blue'
+    accent: 'blue'
+  font:
+    text: 'Noto Sans'
+    code: 'Roboto Mono'
+  icon:
+    logo: material/book
+  features:
+    - instant
+
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+      linenums: true
+  - toc:
+      permalink: False
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.inlinehilite
